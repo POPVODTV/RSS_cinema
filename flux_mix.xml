@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Flux Cinéma POPVOD</title>
+    <link>https://popvodtv.github.io/</link>
+    <description>Actualités récentes de films et séries — AlloCiné, Cinoche, Première</description>
+    <language>fr</language>
+    <lastBuildDate>Wed, 22 May 2025 18:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Exclusivité : Le nouveau thriller français qui fait sensation</title>
+      <link>https://www.allocine.fr/article/fichearticle_gen_carticle=1000052078.html</link>
+      <description><![CDATA[
+        <img src="https://fr.web.img6.acsta.net/c_310_420/pictures/24/01/12/10/25/5857425.jpg"/><br>
+        Un suspense glaçant et une mise en scène efficace : découvrez le thriller du moment en salles.
+      ]]></description>
+      <pubDate>Wed, 22 May 2025 18:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Cinoche : Les nouveautés de la semaine au Québec</title>
+      <link>https://www.cinoche.com/actualites/les-nouveautes-de-la-semaine-au-cinema</link>
+      <description><![CDATA[
+        <img src="https://medias.cinoche.com/image/upload/c_limit,w_1200/v1709871231/articles/nouveautes.jpg"/><br>
+        Tous les nouveaux films qui prennent l’affiche cette semaine au Québec.
+      ]]></description>
+      <pubDate>Wed, 22 May 2025 18:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Première : Top 10 des films les plus attendus en 2025</title>
+      <link>https://www.premiere.fr/Cinema/News-Cinema/Top-10-films-les-plus-attendus-2025</link>
+      <description><![CDATA[
+        <img src="https://resize1-elle.ladmedia.fr/rcrop/1200,628/img/var/plain_site/storage/images/cinema/news-cinema/meilleurs-films-2025/99929389-1-fre-FR/Les-meilleurs-films-a-voir-en-2025.jpg"/><br>
+        Découvrez les films les plus prometteurs à venir cette année.
+      ]]></description>
+      <pubDate>Wed, 22 May 2025 18:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
